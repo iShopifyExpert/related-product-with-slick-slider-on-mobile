@@ -1,0 +1,1 @@
+# related-product-with-slick-slider-on-mobile
